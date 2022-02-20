@@ -23,8 +23,8 @@ module.exports = {
     //sidebarCollapsible: true, //默认折叠
     image: 'https://t.r0zh.top/2022/02/19/fa0cb7704fd6c.jpg',
     algolia: {
-      apiKey: "5c07d8bf9c9928c4453857f6cad0420e",
-      indexName: "wiki-power",
+      apiKey: "10168b93d85a285f903815d12bd79cf6",
+      indexName: "r0zh-wblog",
 
       // Optional: see doc section bellow
       contextualSearch: true,
