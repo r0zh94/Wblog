@@ -82,11 +82,16 @@ module.exports = {
       items: [{
           to: "/",
           label: "文档",
-          position: "right",
+          position: "left",
         },
         {
           to: "blog",
           label: "博客",
+          position: "left",
+        },
+        {
+          href: "https://nav.r0zh.top/",
+          label: "Nav",
           position: "right",
         },
         {
